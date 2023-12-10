@@ -1,4 +1,4 @@
-# TSYP RAS Challenge: Saferoad Enhancement Kit
+# TSYP 11 RAS Challenge: InnovateSafe Road
 
 Welcome to the GitHub repository for the IEEE ENSIT team's solution to the TSYP RAS Challenge. Our project focuses on providing a Saferoad Enhancement Kit, which is an attachable kit for vehicles aimed at enhancing connectivity and sensoring features.
 
