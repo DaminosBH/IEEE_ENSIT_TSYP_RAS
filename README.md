@@ -25,11 +25,10 @@ Our Saferoad Enhancement Kit is designed to improve road safety by enhancing the
 
 ## Contributors
 
-- [List of contributors or team members]
-
-## License
-
-[Specify the license under which the project is shared]
+- Med Amine Ben Hellel 3rd Year Electrical Engineering Student at ENSIT
+- Siwar Jribi 2nd Year Mechanical Engineering Student at ENSIT
+- Louay Sahbani 2nd Year Electrical Engineering Student at ENSIT
+- Ranim Baklouti 1st Year Electrical Engineering Student at ENSIT
 
 ---
 
